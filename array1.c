@@ -1,3 +1,4 @@
+/* To Print all the elements present in an array */
 #include<stdio.h>
 void main()
 {
