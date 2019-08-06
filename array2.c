@@ -1,3 +1,4 @@
+/* To print the sum of all he elements present in the array */
 #include<stdio.h>
 void main()
 {
