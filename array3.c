@@ -1,3 +1,4 @@
+/* It calculates the sum of all the numbers present in the even indexes of the array */
 #include<stdio.h>
 void main()
 {
