@@ -1,3 +1,4 @@
+/* It accept an array and calculates the sum of even numbers */
 void main()
 {
         int arr[100];
