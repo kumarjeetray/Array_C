@@ -1,3 +1,4 @@
+/* To find the sum of three digit odd numbers in an array */
 void main()
 {
         int arr[100];
