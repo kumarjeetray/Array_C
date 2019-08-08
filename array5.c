@@ -1,4 +1,4 @@
-/* It accept an array and calculates the sum of even numbers */
+/* It accept an array and calculates the sum of odd numbers */
 void main()
 {
         int arr[100];
