@@ -1,3 +1,5 @@
+/* It accepts an array and calculates the sum of numbers present in the odd indexes */
+
 void main()
 {
         int arr[100];
