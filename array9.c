@@ -1,3 +1,5 @@
+/* To reverse the elements of one array ny storing it into another array */
+
 void main()
 {
         int arr[100];
