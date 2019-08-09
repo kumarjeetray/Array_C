@@ -1,3 +1,4 @@
+/* Program to revere the contents of an array in the same array */
 void main()
 {
         int arr[100];
