@@ -1,3 +1,4 @@
+/* Calculates the sum of three digit even numbers */
 void main()
 {
         int arr[100];
