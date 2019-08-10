@@ -1,3 +1,4 @@
+/* To find the prime  numbers entered in the array */
 void main()
 {
         int arr[100];
