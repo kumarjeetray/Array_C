@@ -1,4 +1,4 @@
-/* To reverse the elements of one array ny storing it into another array */
+/* To reverse the elements of one array and storing it into another array */
 
 void main()
 {
