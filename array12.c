@@ -24,5 +24,5 @@ void main()
                 }
         }
         printf("\nThe largest number in the array is %d",arr[n-1]);
-        printf("\nThe smallestb number in the array is %d",arr[0]);
+        printf("\nThe smallest number in the array is %d",arr[0]);
 }
