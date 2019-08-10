@@ -1,3 +1,4 @@
+/* It finds the largest and the smallest number in the array*/
 #include<stdio.h>
 void main()
 {
