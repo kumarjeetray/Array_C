@@ -1,3 +1,4 @@
+/* To check whether a the elements present in the array is a fibonacci no or not */
 #include<stdio.h>
 void main()
 {
