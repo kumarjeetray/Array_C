@@ -11,7 +11,7 @@ void main()
             scanf("%d",&arr[i]);
         }
         int c=0;
-        printf("The non-prime numbers in the entered array are: \n")
+        printf("The non-prime numbers in the entered array are: \n");
         for(int j=0;j<n;j++)
         {
                 for(int k=1;k<=arr[j];k++)
