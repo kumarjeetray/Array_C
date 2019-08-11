@@ -1,3 +1,4 @@
+/* To find the non-prime numbers present in the array */
 void main()
 {
         int arr[100];
