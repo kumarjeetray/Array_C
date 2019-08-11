@@ -7,7 +7,7 @@ void main()
         scanf("%d",n);
         for(int i=0;i<n;i++)
         {
-                printf("\nEnter a Number:");
+                printf("\nEnter a Number less tahm 150:");
                 scanf("%d",&arr[i]);
 		}
 		int ch[]={0,1,2,3,5,8,13,21,34,55,89,144};
