@@ -1,3 +1,4 @@
+/* To check whether an element is present in the array */
 #include<stdio.h>
 void main()
 {
