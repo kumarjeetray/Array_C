@@ -1,5 +1,3 @@
-/* Sum of the series x1^2,x2^2,x3^2.........x10^2  */
-
 #include<stdio.h>
 #include<math.h>
 void main()
