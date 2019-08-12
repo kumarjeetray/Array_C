@@ -23,7 +23,7 @@ void main()
                 }
                 if(c>2)
                 {
-                        printf("%d ,",ar[j]);
+                        printf("%d ,",arr[j]);
                 }
                 c=0;
         }
