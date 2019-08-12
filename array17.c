@@ -1,3 +1,4 @@
+/*  Sum of the series 1/n1+1/n2+1/n3+.......1/n */
 #include<stdio.h>
 #include<math.h>
 void main()
