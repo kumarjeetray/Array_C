@@ -1,3 +1,4 @@
+/* Counts the no of even and odd nos */
 #include<stdio.h>
 void main()
 {
@@ -7,11 +8,7 @@ void main()
     {
         printf("\nEnter a number");
         scanf("%d",&n);
-        if(n==0)
-        {
-            break;
-        }
-        else if(n%2==0)
+        if(n%2==0)
         {
             nume++;
         }
